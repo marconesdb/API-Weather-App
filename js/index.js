@@ -39,6 +39,6 @@ form === null || form === void 0 ? void 0 : form.addEventListener('submit', (eve
   `;
     }
     catch (err) {
-        console.log('Deu um errona obtenção dos dados da API.', err);
+        console.log('Deu um erro na obtenção dos dados da API.', err);
     }
 }));
