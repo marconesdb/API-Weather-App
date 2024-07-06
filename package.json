@@ -1,0 +1,15 @@
+{
+  "name": "previsao-do-tempo",
+  "version": "1.0.0",
+  "description": "https://api.openweathermap.org/data/2.5/weather?q=montes%20claros&appid=1f400f79f817bc5ae64e794087792064&lang=pt_br&units=metric",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
